@@ -1,0 +1,25 @@
+{
+  "name": "blb-core",
+  "version": "1.0.0",
+  "description": "核心库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Some-Group/blb-core.git"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "table",
+    "gen"
+  ],
+  "author": "Boiao Ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Some-Group/blb-core/issues"
+  },
+  "homepage": "https://github.com/Some-Group/blb-core#readme"
+}
