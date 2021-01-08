@@ -1,5 +1,5 @@
 {
-  "name": "blb-core",
+  "name": "sm-core",
   "version": "1.0.0",
   "description": "核心库",
   "main": "index.js",
@@ -16,7 +16,11 @@
     "table",
     "gen"
   ],
-  "author": "Boiao Ch",
+  "author": {
+    "name": "Boiao Ch",
+    "email": "doubiliao@gmail.com",
+    "url": "https://liaobinbin.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Some-Group/blb-core/issues"
